@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350447473687",
+    "project_id": "ihealth-316a6",
+    "storage_bucket": "ihealth-316a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350447473687:android:6bc40a4b9589df87087852",
+        "android_client_info": {
+          "package_name": "com.hub.i_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350447473687-h2ri3j002t8btefcolnbneuu5nbb4fi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpg6RWfouk9nO-wbT7LRHdQbMWUnI9xPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350447473687-h2ri3j002t8btefcolnbneuu5nbb4fi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
